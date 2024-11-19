@@ -4,3 +4,4 @@
 *Sofie Helene Karlsen - sokar8923@oslomet.no*
 
 ## Computational Intelligence of Electric Vehicles Charging Efficiency Using Hybrid AI Methods
+### Instructions for how to run the Code
